@@ -2,8 +2,9 @@
 这是一个很挫很挫的脚本, 用来管理 Flexget 的 Crontab 
 
 ### 使用
-访问 `http://SeedboxIP:8118/flexget`  
-把 `SeedboxIP` 替换成你的 SeedBox IP
+把下面的 `SeedboxIP` 替换成你的 SeedBox IP  
+访问 http://SeedboxIP:8118/flexget 即可
+
 
 ### 配置
 默认运行在 root 权限下
